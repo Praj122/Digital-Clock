@@ -1,0 +1,42 @@
+body
+{
+    padding:150px;
+    background-image:linear-gradient(to bottom right, red, yellow);
+}
+.container
+{
+    margin:130px auto;
+    height:130px;
+    width:300px;
+    border:2px groove rgba(118,239,248,0.968);
+    border-radius:40px;
+    box-shadow:rgba(0,0,0,0.2) 0px 10px 20px,
+    rgba(0,0,0,0.23) 0px 6px 8px;
+    background-image:linear-gradient(to bottom right, yellow, pink);
+}
+h1
+{
+    font-style:normal;
+    font-family:monospace;
+    color:#FF1493;
+}
+#hour
+{
+ font-size:30px;
+}
+#minute
+{
+  font-size:30px;
+}
+#second
+{
+  font-size:30px;
+}
+#AmorPm
+{
+  font-size:30px;
+}
+#colon
+{
+  font-size:30px;
+}
