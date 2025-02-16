@@ -1,7 +1,6 @@
 body
 {
-    padding:150px;
-    background-image:linear-gradient(to bottom right, red, yellow);
+    background-color:aqua;
 }
 .container
 {
